@@ -3,7 +3,7 @@ package builderxing.prototype;
 import java.util.Hashtable;
 
 public class ShapeCache {
-    private static Hashtable<String, Shape> hashtable = new Hashtable<>();
+    private static Hashtable<String, Shape> hashtable = new Hashtable<String, Shape>();
 
     public static Shape getShape(String shapeId){
         Shape cacheShape = hashtable.get(shapeId);

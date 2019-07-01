@@ -7,7 +7,7 @@ import java.util.List;
 //人物负责组装部位
 public class Character {
 
-    private List<PartOfRole> list = new ArrayList<>();
+    private List<PartOfRole> list = new ArrayList<PartOfRole>();
 
     public void addPart(PartOfRole partOfRole){
         list.add(partOfRole);

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ShapeFactory {
-    private static Map<String, Shape> map = new HashMap<>();
+    private static Map<String, Shape> map = new HashMap<String, Shape>();
     public static Shape getCircle(String color){
         Shape shape = map.get(color);
         if(shape == null){

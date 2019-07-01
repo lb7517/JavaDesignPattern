@@ -7,7 +7,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class Meal {
-    private List<Item> list = new ArrayList<>();
+    private List<Item> list = new ArrayList<Item>();
 
     public void addItem(Item item){
         list.add(item);
