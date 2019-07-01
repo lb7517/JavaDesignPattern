@@ -2,164 +2,164 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8dec13a-5cc6-438b-b9c2-82697a0e4514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jiegouxing/proxy/cglibproxy/BookFacadeCglib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jiegouxing/proxy/cglibproxy/BookFacadeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jiegouxing/proxy/cglibproxy/CglibTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDesignPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/StandardInputOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/BuilderPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/Meal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/MealBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Bottle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Burger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/ChickenBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/CodeDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Coke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Packing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Pepsi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/VegBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builder/basic/Wapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/DellFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/DellKeybo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/DellMouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/FactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/HpFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/HpKeybo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/HpMouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/PcFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/jiekou/Keybo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/abstractfactory/jiekou/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/BuilderPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/ConcreteBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Foot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/Head.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/builder/PartOfRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/CarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/HondaEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/HondaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/HondaTyre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/ProxyPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/ToyotaEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/ToyotaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/ToyotaTyre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/abstractfactory/Tyre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/staticfactory/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/staticfactory/EngineFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/staticfactory/HondaEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/staticfactory/ProxyPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/factory/car/staticfactory/Toyota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/prototype/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/prototype/PrototypePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/prototype/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/prototype/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/prototype/ShapeCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/dcl/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/dcl/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/internal/Singleton$SingletonHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/internal/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/internal/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/safe/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/safe/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/unsafe/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/lazy/unsafe/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/meiju/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/meiju/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/unlazy/safe/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/single/unlazy/safe/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/FactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/entity/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/entity/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/entity/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/builderxing/staticfactory/entity/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/Flyweight/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/Flyweight/FlyweightPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/Flyweight/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/Flyweight/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/AdapterPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/AdvanceMediaPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/AudioPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/MediaAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/MediaPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/Mp4Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/sdcardconverter/VlcPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/AC220V.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/AdapterPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/DC5V.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/PowerClassAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/PowerObjectAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/interfaceadapter/DCOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/adapter/voltageconverter/interfaceadapter/PowerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/DecoratorPatterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/RedShapeDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/decorator/ShapeDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/facade/Cpu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/facade/Disk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/facade/FacadeComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/facade/FacadePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/facade/Memory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/cglibproxy/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/cglibproxy/ProxyFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy/DynamicProxyPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy/Financial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy/FinancialManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy1/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy1/DynamicProxyPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy1/Financial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy1/FinancialManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/dynamicproxy1/FinancialManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/staticproxy/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/staticproxy/Financial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/staticproxy/FinancialManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/jiegouxing/proxy/staticproxy/ProxyPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/AbstractCardPater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/AbstractMediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/Mediator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/MediatorPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/PaterA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/PaterB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/cardMediator/PaterC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/iterator/Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/iterator/Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/iterator/IteratorPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/iterator/NameRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/iterator/StringArrayIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/mediator/ChatRoom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/mediator/MediatorPatterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/mediator/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/memento/CareTaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/memento/Memento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/memento/MementoPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/memento/Originator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/simpleCardMediator/AbstractCardParter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/simpleCardMediator/ParterA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/simpleCardMediator/ParterB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/simpleCardMediator/ParterC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaDesignPattern/xingweixing/simpleCardMediator/SimpleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builder/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/Meal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderxing/builder/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builderxing/builder/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/builderxing/prototype/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/builderxing/prototype/ShapeCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiegouxing/flyweight/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiegouxing/flyweight/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiegouxing/proxy/cglibproxy/Bank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiegouxing/proxy/cglibproxy/ProxyFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/BuilderPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/MealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Bottle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Burger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/ChickenBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/CodeDrink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Coke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Packing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Pepsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/VegBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builder/basic/Wapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/DellFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/DellKeybo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/DellMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/FactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/HpFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/HpKeybo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/HpMouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/PcFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/jiekou/Keybo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/jiekou/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/abstractfactory/抽象工厂模型图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/BuilderPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/ConcreteBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Foot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/Head.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/PartOfRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/builder/part.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/HondaEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/HondaFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/HondaTyre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/ProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/ToyotaEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/ToyotaFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/ToyotaTyre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/abstractfactory/Tyre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/staticfactory/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/staticfactory/EngineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/staticfactory/HondaEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/staticfactory/ProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/factory/car/staticfactory/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/prototype/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/prototype/PrototypePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/prototype/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/prototype/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/prototype/ShapeCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/dcl/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/dcl/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/internal/Singleton$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/internal/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/internal/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/safe/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/safe/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/unsafe/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/lazy/unsafe/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/meiju/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/meiju/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/unlazy/safe/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/single/unlazy/safe/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/FactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/SimpleFactory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/entity/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/entity/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/entity/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/builderxing/staticfactory/entity/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/AdapterPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/AdvanceMediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/AudioPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/MediaAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/MediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/Mp4Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/sdcardconverter/VlcPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/AC220V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/AdapterPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/DC5V.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/PowerClassAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/PowerObjectAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/interfaceadapter/DCOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/adapter/voltageconverter/interfaceadapter/PowerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/DecoratorPatterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/RedShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/decorator/ShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/Cpu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/Disk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/FacadeComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/FacadePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/facade/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/flyweight/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/flyweight/FlyweightPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/flyweight/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/flyweight/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/flyweight/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/cglibproxy/BookFacadeCglib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/cglibproxy/BookFacadeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/cglibproxy/CglibTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/cglibproxy/CglibTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy/DynamicProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy/Financial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy/FinancialManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy1/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy1/DynamicProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy1/Financial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy1/FinancialManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/dynamicproxy1/FinancialManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/staticproxy/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/staticproxy/Financial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/staticproxy/FinancialManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jiegouxing/proxy/staticproxy/ProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/AbstractCardPater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/AbstractMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/MediatorPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/PaterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/PaterB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/cardMediator/PaterC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/IteratorPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/NameRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/iterator/StringArrayIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/mediator/ChatRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/mediator/MediatorPatterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/mediator/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/memento/CareTaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/memento/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/memento/MementoPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/memento/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/memento/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/simpleCardMediator/AbstractCardParter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/simpleCardMediator/ParterA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/simpleCardMediator/ParterB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/simpleCardMediator/ParterC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xingweixing/simpleCardMediator/SimpleDemo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -224,7 +224,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/builder/Meal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
@@ -232,6 +232,15 @@
               <folding>
                 <element signature="e#188#194#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/xingweixing/simpleCardMediator/ParterB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -267,15 +276,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java8/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4525">
-              <caret line="205" column="15" selection-start-line="205" selection-start-column="15" selection-end-line="205" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -365,6 +365,11 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="cglibTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cglibTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -392,25 +397,6 @@
               <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="builderxing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="builderxing" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -448,7 +434,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561977618174" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561977803884" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -577,12 +563,12 @@
       <workItem from="1560301492856" duration="15726000" />
       <workItem from="1560389308479" duration="23084000" />
       <workItem from="1560474506460" duration="1045000" />
-      <workItem from="1561976218129" duration="1271000" />
+      <workItem from="1561976218129" duration="1471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81435000" />
+    <option name="totallyTimeSpent" value="81635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,7 +582,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -605,7 +591,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35081968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35081968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3371522" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -615,13 +601,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -711,13 +697,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/builderxing/single/lazy/internal/SingletonPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/builderxing/single/lazy/internal/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1092,6 +1071,13 @@
           <folding>
             <element signature="e#188#194#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xingweixing/simpleCardMediator/ParterB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
