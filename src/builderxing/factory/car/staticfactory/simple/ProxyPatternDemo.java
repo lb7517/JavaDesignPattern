@@ -1,4 +1,4 @@
-package builderxing.factory.car.staticfactory;
+package builderxing.factory.car.staticfactory.simple;
 
 public class ProxyPatternDemo {
     public static void main(String args[]){

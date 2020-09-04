@@ -1,4 +1,4 @@
-package builderxing.factory.car.staticfactory;
+package builderxing.factory.car.staticfactory.simple;
 
 //丰田
 public class Toyota implements Engine{

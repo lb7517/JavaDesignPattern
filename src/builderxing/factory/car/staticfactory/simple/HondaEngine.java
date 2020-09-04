@@ -1,4 +1,4 @@
-package builderxing.factory.car.staticfactory;
+package builderxing.factory.car.staticfactory.simple;
 
 //本田
 public class HondaEngine implements Engine {
