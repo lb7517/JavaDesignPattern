@@ -25,6 +25,9 @@ public class SingletonPatternDemo {
     public static void testSafe() throws InterruptedException {
         ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(8, 16, 60, TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(100000));
+        //
+        /*ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(2, 3, 60, TimeUnit.SECONDS,
+                new ArrayBlockingQueue<>(3));*/
         CountDownLatch cd = new CountDownLatch(clientTotals);
         for(int i =0; i < clientTotals; i++){
             threadPoolExecutor.execute(() -> {

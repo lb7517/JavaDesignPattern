@@ -11,7 +11,7 @@ public class SingletonPatternDemo {
     private static AtomicInteger num = new AtomicInteger();
 
     // 请求总数
-    public static int clientTotals = 200;
+    public static int clientTotals = 300;
 
     public static void main(String args[]) throws InterruptedException {
         // 普通执行
