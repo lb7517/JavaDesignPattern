@@ -1,9 +1,6 @@
 package builderxing.single.unlazy.safe;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class SingletonPatternDemo {
@@ -25,7 +22,11 @@ public class SingletonPatternDemo {
     public static void testSafe() throws InterruptedException {
         ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(8, 16, 60, TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(100000));
-        //
+        Executors.newCachedThreadPool();
+        Executors.newFixedThreadPool(1);
+        Executors.newSingleThreadExecutor();
+        Executors.newWorkStealingPool();
+        Executors.newScheduledThreadPool(1);
         /*ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(2, 3, 60, TimeUnit.SECONDS,
                 new ArrayBlockingQueue<>(3));*/
         CountDownLatch cd = new CountDownLatch(clientTotals);

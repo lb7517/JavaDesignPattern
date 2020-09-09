@@ -24,7 +24,10 @@ public class BookFacadeCglib implements MethodInterceptor {
     public Object intercept(Object o, Method method, Object[] objects,
                             MethodProxy methodProxy) throws Throwable {
         System.out.println("11预处理-----");
-        methodProxy.invokeSuper(o, objects); //调用业务类（父类中）的方法
+        // 方式一:
+        methodProxy.invokeSuper(o, objects);    // 被代理类子类对象，调用业务类（父类中即被代理类）的方法
+        // 方式二:
+//        method.invoke(this.target, objects);  // 被代理类调用业务类(即被代理类)的方法
         System.out.println("11调用后操作-----");
         return null;
     }
