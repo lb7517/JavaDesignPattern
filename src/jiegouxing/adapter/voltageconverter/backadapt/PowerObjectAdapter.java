@@ -1,6 +1,8 @@
-package jiegouxing.adapter.voltageconverter;
+package jiegouxing.adapter.voltageconverter.backadapt;
 
-//对象适配
+/**
+ * 对象适配
+ * */
 public class PowerObjectAdapter implements DC5V{
 
     private AC220V ac220V;

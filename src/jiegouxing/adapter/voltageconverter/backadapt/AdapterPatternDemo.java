@@ -1,6 +1,6 @@
-package jiegouxing.adapter.voltageconverter;
+package jiegouxing.adapter.voltageconverter.backadapt;
 
-import jiegouxing.adapter.voltageconverter.interfaceadapter.PowerAdapter;
+import jiegouxing.adapter.voltageconverter.backadapt.interfaceadapter.PowerAdapter;
 
 public class AdapterPatternDemo {
     public static void main(String args[]){
@@ -10,7 +10,7 @@ public class AdapterPatternDemo {
         System.out.println("适配结果电压: "+ output1+"V");
         System.out.println("-------------------------------");
 
-        //方式二 类适配器
+        //方式二 对象适配器
         AC220V ac220V = new AC220V();
         PowerObjectAdapter powerObjectAdapter = new PowerObjectAdapter(ac220V);
         int output2 = powerObjectAdapter.output5V();
