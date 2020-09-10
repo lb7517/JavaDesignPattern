@@ -1,4 +1,4 @@
-package jiegouxing.adapter.voltageconverter.classadapt;
+package jiegouxing.adapter.voltageconverter.objectadapter;
 
 /**
  * @author : lb

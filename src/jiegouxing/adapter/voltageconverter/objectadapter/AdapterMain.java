@@ -1,4 +1,4 @@
-package jiegouxing.adapter.voltageconverter.classadapt;
+package jiegouxing.adapter.voltageconverter.objectadapter;
 
 /**
  * @author : lb
@@ -7,7 +7,8 @@ package jiegouxing.adapter.voltageconverter.classadapt;
  */
 public class AdapterMain {
     public static void main(String[] args){
-        PowerClassAdapter powerClassAdapter = new PowerClassAdapter();
+        AC220V ac220V = new AC220V();
+        PowerObjectAdapter powerClassAdapter = new PowerObjectAdapter(ac220V);
         int output = powerClassAdapter.output5v();
         System.out.println("适配结果电压: "+ output+"V");
         System.out.println("-------------------------------");
