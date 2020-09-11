@@ -9,6 +9,9 @@
 1. 与工程模式的区别是，工厂模式是创建产品对象的的，不对外提供产品功能；代理模式是代理产品对象对，外提供产品的功能 
 2. springboot2.x默认使用cglib代理，设置 spring.aop.proxy-target-class=false; 接口采用jdk动态代理，普通类采用cglib代理
 3. 注意jiegouxing.proxy.dynamicproxy.DynamicProxyPatternDemo类中创建jdk动态代理实例Proxy.newProxyInstance参数的用法，目前有四种方式
-4. 创建cglib动态代理jiegouxing.proxy.cglibproxy.BookFacadeCglibz中的intercept方法，实际去调用有两种方式
+4. 创建cglib动态代理jiegouxing.proxy.cglibproxy.BookFacadeCglibz中的intercept方法，实际去调用有两种方式:
+    * 方式一: methodProxy.invokeSuper(o, objects);此处调用是,代理对象调用父类(被代理对象)的业务方法。如果调用代理方法会陷入死循环调用，最终导致内存溢出
+    * 方式二:  method.invoke(this.target, objects);表示被代理类调用被代理方法，
+
 
  [代码地址](https://github.com/lb7517/JavaDesignPattern.git)
