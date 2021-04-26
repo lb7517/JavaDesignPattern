@@ -2,7 +2,7 @@ package builderxing.single.lazy.dcl;
 
 //双检锁/双重校验锁
 public class Singleton {
-    private static Singleton instance;
+    private static volatile Singleton instance;
 
     //在方法里面实现同步
     public static Singleton getInstance(){

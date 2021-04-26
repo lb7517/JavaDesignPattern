@@ -20,7 +20,7 @@ public class BookFacadeCglib implements MethodInterceptor {
         return enhancer.create();
     }
 
-    
+
     // 实现回调方法
     public Object intercept(Object o, Method method, Object[] objects,
                             MethodProxy methodProxy) throws Throwable {
